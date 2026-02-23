@@ -1,0 +1,43 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    container_name: alfaxmusic
+    restart: unless-stopped
+    env_file:
+      - .env
+    depends_on:
+      - mongodb
+    volumes:
+      - ./logs:/app/logs
+      - ./assets:/app/assets
+    networks:
+      - alfanetwork
+
+  mongodb:
+    image: mongo:6-jammy
+    container_name: alfaxmusic-mongo
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: password
+    volumes:
+      - mongodb_data:/data/db
+    ports:
+      - "27017:27017"
+    networks:
+      - alfanetwork
+
+volumes:
+  mongodb_data:
+
+networks:
+  alfanetwork:
+    driver: bridge

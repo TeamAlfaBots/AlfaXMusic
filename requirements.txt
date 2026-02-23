@@ -1,0 +1,45 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# Core Framework
+pyrogram==2.0.106
+tgcrypto==1.2.5
+
+# Voice Call
+pytgcalls==3.0.0.dev22
+ntgcalls==1.0.0
+
+# Database
+motor==3.3.2
+pymongo==4.6.1
+
+# Music Platforms
+yt-dlp==2023.12.30
+youtube-search-python==1.6.6
+spotipy==2.23.0
+
+# Image Processing
+pillow==10.2.0
+aiohttp==3.9.1
+
+# Utilities
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Async
+asyncio==3.4.3
+aiofiles==23.2.1
+
+# HTTP Requests
+requests==2.31.0
+httpx==0.25.2
+
+# Additional
+psutil==5.9.6
+heroku3==5.2.1
+
+# For session generation
+pyromod==1.5

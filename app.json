@@ -1,0 +1,79 @@
+{
+  "name": "AlfaXMusic",
+  "description": "A powerful Telegram Music Bot with YouTube, Spotify support",
+  "repository": "https://github.com/yourusername/AlfaXMusic",
+  "logo": "https://telegra.ph/file/your-logo.png",
+  "keywords": [
+    "telegram",
+    "bot",
+    "music",
+    "youtube",
+    "spotify",
+    "voice-chat",
+    "streaming"
+  ],
+  "stack": "container",
+  "env": {
+    "API_ID": {
+      "description": "Your Telegram API ID from my.telegram.org",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Your Telegram API Hash from my.telegram.org",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Your Bot Token from @BotFather",
+      "required": true
+    },
+    "MONGO_URI": {
+      "description": "MongoDB connection string",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Your Telegram User ID",
+      "required": true
+    },
+    "SESSION_STRING": {
+      "description": "Userbot session string (optional but recommended)",
+      "required": false
+    },
+    "SPOTIFY_CLIENT_ID": {
+      "description": "Spotify API Client ID (optional)",
+      "required": false
+    },
+    "SPOTIFY_CLIENT_SECRET": {
+      "description": "Spotify API Client Secret (optional)",
+      "required": false
+    },
+    "START_IMG_URL": {
+      "description": "URL for start command image (optional)",
+      "required": false
+    },
+    "PING_IMG_URL": {
+      "description": "URL for ping command image (optional)",
+      "required": false
+    },
+    "SUPPORT_URL": {
+      "description": "Support group link (optional)",
+      "required": false
+    },
+    "UPDATES_URL": {
+      "description": "Updates channel link (optional)",
+      "required": false
+    }
+  },
+  "addons": [
+    {
+      "plan": "mongolab:sandbox"
+    }
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
