@@ -1,0 +1,112 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# Hindi Language File
+
+# General
+welcome: "AlfaXMusic में आपका स्वागत है!"
+goodbye: "अलविदा!"
+success: "सफल!"
+error: "एक त्रुटि हुई।"
+processing: "प्रसंस्करण..."
+please_wait: "कृपया प्रतीक्षा करें..."
+cancelled: "रद्द कर दिया गया।"
+
+# Start Command
+start_message: |
+  👋 नमस्ते {username},
+  
+  🎵 मैं {botname} हूं, आपका स्मार्ट Telegram स्ट्रीमिंग प्लेयर!
+  
+  ✨ विशेषताएं:
+  • YouTube और Spotify से संगीत स्ट्रीम करें
+  • कतार प्रबंधन और प्लेलिस्ट समर्थन
+  • व्यवस्थापक नियंत्रण और लूप/शफल
+  • उच्च-गुणवत्ता ऑडियो स्ट्रीमिंग
+  
+  🚀 शुरू करें:
+  मुझे अपने समूह में जोड़ें और /play का उपयोग करें
+
+# Play Command
+play_usage: |
+  🎵 उपयोग:
+  /play <गाने का नाम> - खोजें और चलाएं
+  /play <YouTube URL> - URL से चलाएं
+  /play <प्लेलिस्ट नाम> - प्लेलिस्ट चलाएं
+
+searching: "🔍 खोज रहा है..."
+playing: "🎵 बज रहा है..."
+added_to_queue: "🎵 कतार में जोड़ा गया"
+queue_empty: "📭 कतार खाली है"
+
+# Queue
+now_playing: "🎵 अभी बज रहा है"
+up_next: "📑 अगला"
+queue_cleared: "🗑️ कतार साफ कर दी गई"
+
+# Controls
+paused: "⏸️ रोका गया"
+resumed: "▶️ फिर से शुरू"
+skipped: "⏭️ छोड़ दिया गया"
+stopped: "⏹️ रोक दिया गया"
+loop_enabled: "🔁 लूप सक्षम"
+loop_disabled: "🔁 लूप अक्षम"
+shuffle_enabled: "🔀 शफल सक्षम"
+shuffle_disabled: "🔀 शफल अक्षम"
+
+# Admin
+admin_only: "⚠️ यह कमांड केवल व्यवस्थापकों के लिए है।"
+user_authorized: "✅ उपयोगकर्ता अधिकृत"
+user_unauthorized: "❌ उपयोगकर्ता अनधिकृत"
+
+# Sudo
+sudo_added: "✅ सूडो में जोड़ा गया"
+sudo_removed: "❌ सूडो से हटा दिया गया"
+owner_only: "⚠️ यह कमांड केवल बॉट मालिक के लिए है।"
+
+# Errors
+not_in_call: "❌ वॉइस कॉल में नहीं है"
+no_song_found: "❌ कोई गाना नहीं मिला"
+failed_to_play: "❌ चलाने में विफल"
+not_authorized: "❌ आप अधिकृत नहीं हैं"
+
+# Stats
+stats_title: "📊 बॉट आंकड़े"
+users_count: "👥 उपयोगकर्ता"
+chats_count: "💬 चैट"
+songs_played: "🎵 बजाए गए गाने"
+
+# Ping
+ping_text: "🏓 पोंग!"
+response_time: "⚡ प्रतिक्रिया समय"
+
+# Broadcast
+broadcast_started: "📢 प्रसारण शुरू हुआ"
+broadcast_complete: "✅ प्रसारण पूरा हुआ"
+broadcast_stats: "📊 प्रसारण आंकड़े"
+
+# Help
+help_title: "🎵 AlfaXMusic - सहायता मेनू"
+basic_commands: "📌 बुनियादी कमांड"
+music_commands: "🎶 संगीत कमांड"
+queue_commands: "📋 कतार कमांड"
+admin_commands: "👤 व्यवस्थापक कमांड"
+owner_commands: "👑 मालिक कमांड"
+
+# Buttons
+back_button: "🔙 वापस"
+close_button: "❌ बंद करें"
+help_button: "❓ सहायता"
+play_button: "▶️ चलाएं"
+pause_button: "⏸️ रोकें"
+skip_button: "⏭️ छोड़ें"
+stop_button: "⏹️ बंद करें"
+loop_button: "🔁 लूप"
+shuffle_button: "🔀 शफल"
+queue_button: "📋 कतार"
+
+# Footer
+powered_by: "📌 Alfa Bots द्वारा संचालित"

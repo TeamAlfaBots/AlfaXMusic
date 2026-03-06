@@ -1,0 +1,112 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# English Language File
+
+# General
+welcome: "Welcome to AlfaXMusic!"
+goodbye: "Goodbye!"
+success: "Success!"
+error: "An error occurred."
+processing: "Processing..."
+please_wait: "Please wait..."
+cancelled: "Cancelled."
+
+# Start Command
+start_message: |
+  👋 Hey {username},
+  
+  🎵 I am {botname}, your smart Telegram streaming player!
+  
+  ✨ Features:
+  • Stream music from YouTube & Spotify
+  • Queue management & playlist support
+  • Admin controls & loop/shuffle
+  • High-quality audio streaming
+  
+  🚀 Get Started:
+  Add me to your group and use /play
+
+# Play Command
+play_usage: |
+  🎵 Usage:
+  /play <song name> - Search and play
+  /play <YouTube URL> - Play from URL
+  /play <playlist name> - Play playlist
+
+searching: "🔍 Searching..."
+playing: "🎵 Playing..."
+added_to_queue: "🎵 Added to queue"
+queue_empty: "📭 Queue is empty"
+
+# Queue
+now_playing: "🎵 Now Playing"
+up_next: "📑 Up Next"
+queue_cleared: "🗑️ Queue cleared"
+
+# Controls
+paused: "⏸️ Paused"
+resumed: "▶️ Resumed"
+skipped: "⏭️ Skipped"
+stopped: "⏹️ Stopped"
+loop_enabled: "🔁 Loop enabled"
+loop_disabled: "🔁 Loop disabled"
+shuffle_enabled: "🔀 Shuffle enabled"
+shuffle_disabled: "🔀 Shuffle disabled"
+
+# Admin
+admin_only: "⚠️ This command is only for admins."
+user_authorized: "✅ User authorized"
+user_unauthorized: "❌ User unauthorized"
+
+# Sudo
+sudo_added: "✅ Added to sudo"
+sudo_removed: "❌ Removed from sudo"
+owner_only: "⚠️ This command is only for the bot owner."
+
+# Errors
+not_in_call: "❌ Not in a voice call"
+no_song_found: "❌ No song found"
+failed_to_play: "❌ Failed to play"
+not_authorized: "❌ You are not authorized"
+
+# Stats
+stats_title: "📊 Bot Statistics"
+users_count: "👥 Users"
+chats_count: "💬 Chats"
+songs_played: "🎵 Songs Played"
+
+# Ping
+ping_text: "🏓 Pong!"
+response_time: "⚡ Response Time"
+
+# Broadcast
+broadcast_started: "📢 Broadcast started"
+broadcast_complete: "✅ Broadcast complete"
+broadcast_stats: "📊 Broadcast Statistics"
+
+# Help
+help_title: "🎵 AlfaXMusic - Help Menu"
+basic_commands: "📌 Basic Commands"
+music_commands: "🎶 Music Commands"
+queue_commands: "📋 Queue Commands"
+admin_commands: "👤 Admin Commands"
+owner_commands: "👑 Owner Commands"
+
+# Buttons
+back_button: "🔙 Back"
+close_button: "❌ Close"
+help_button: "❓ Help"
+play_button: "▶️ Play"
+pause_button: "⏸️ Pause"
+skip_button: "⏭️ Skip"
+stop_button: "⏹️ Stop"
+loop_button: "🔁 Loop"
+shuffle_button: "🔀 Shuffle"
+queue_button: "📋 Queue"
+
+# Footer
+powered_by: "📌 Powered by Alfa Bots"
