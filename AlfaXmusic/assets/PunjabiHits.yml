@@ -1,0 +1,33 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# Punjabi Hits Playlist
+
+name: "Punjabi Hits"
+description: "Top Punjabi hit songs"
+count: 20
+
+songs:
+  - "Lamberghini"
+  - "Naah Goriye"
+  - "Suit Suit"
+  - "High Rated Gabru"
+  - "Lahore"
+  - "Patola"
+  - "Bapu Zamindar"
+  - "3 Peg"
+  - "Mann Bharrya"
+  - "Qismat"
+  - "Wang Da Naap"
+  - "Coka"
+  - "Filhall"
+  - "Kya Baat Ay"
+  - "Jatt Da Muqabala"
+  - "Daru Badnaam"
+  - "Teeje Week"
+  - "Prada"
+  - "Sip Sip"
+  - "Illegal Weapon"

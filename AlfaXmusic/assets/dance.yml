@@ -1,0 +1,33 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# Dance Songs Playlist
+
+name: "Dance Songs"
+description: "High energy dance songs"
+count: 20
+
+songs:
+  - "Kala Chashma"
+  - "Kar Gayi Chull"
+  - "Abhi Toh Party Shuru Hui Hai"
+  - "Baby Ko Bass Pasand Hai"
+  - "The Breakup Song"
+  - "Cutiepie"
+  - "Nashe Si Chadh Gayi"
+  - "Sooraj Dooba Hain"
+  - "Lungi Dance"
+  - "Chittiyaan Kalaiyaan"
+  - "Saturday Saturday"
+  - "Proper Patola"
+  - "Bom Diggy Diggy"
+  - "Dilbar"
+  - "Aankh Marey"
+  - "Chogada"
+  - "Kamariya"
+  - "Morni Banke"
+  - "Saki Saki"
+  - "Garmi"

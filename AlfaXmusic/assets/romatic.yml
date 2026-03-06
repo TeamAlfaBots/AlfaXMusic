@@ -1,0 +1,33 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# Romantic Songs Playlist
+
+name: "Romantic Songs"
+description: "Beautiful romantic songs"
+count: 20
+
+songs:
+  - "Tujhe Dekha To Yeh Jaana Sanam"
+  - "Pehla Nasha"
+  - "Mere Haath Mein"
+  - "Tum Se Hi"
+  - "Agar Tum Saath Ho"
+  - "Raabta"
+  - "Janam Janam"
+  - "Gerua"
+  - "Enna Sona"
+  - "Hawayein"
+  - "Zaalima"
+  - "Nashe Si Chadh Gayi"
+  - "Dekha Hazaro Dafaa"
+  - "Bol Do Na Zara"
+  - "Kaun Tujhe"
+  - "Soch Na Sake"
+  - "Sanam Re"
+  - "Hasi"
+  - "Hamari Adhuri Kahani"
+  - "Pal Pal Dil Ke Paas"

@@ -1,0 +1,33 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# Arijit Singh Sad Songs Playlist
+
+name: "Arijit Singh Sad Songs"
+description: "Emotional sad songs by Arijit Singh"
+count: 20
+
+songs:
+  - "Channa Mereya"
+  - "Ae Dil Hai Mushkil"
+  - "Tum Hi Ho"
+  - "Humdard"
+  - "Muskurane"
+  - "Phir Bhi Tumko Chaahunga"
+  - "Tera Yaar Hoon Main"
+  - "Kalank Title Track"
+  - "Pal Pal Dil Ke Paas"
+  - "Thodi Jagah"
+  - "Khairiyat"
+  - "Tujhe Kitna Chahne Lage"
+  - "Bekhayali"
+  - "Phir Le Aya Dil"
+  - "Laal Ishq"
+  - "Agar Tum Saath Ho"
+  - "Chahun Main Ya Naa"
+  - "Samjhawan"
+  - "Sun Raha Hai Na Tu"
+  - "Tose Naina"

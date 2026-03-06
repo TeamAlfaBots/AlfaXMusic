@@ -1,0 +1,33 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# Bhojpuri Hits Playlist
+
+name: "Bhojpuri Hits"
+description: "Popular Bhojpuri songs"
+count: 20
+
+songs:
+  - "Lollipop Lagelu"
+  - "Kamariya"
+  - "Chhalakata Hamro Jawaniya"
+  - "Lagawelu Jab Lipstick"
+  - "Raat Diya Butake"
+  - "Hello Koun"
+  - "Jable Jagal Bani"
+  - "Piyawa Se Pahile"
+  - "Sutal Raha"
+  - "Khatiya Charar"
+  - "Munna Michael"
+  - "Bhauji Ke Sister"
+  - "Bhaiya Ke Sali"
+  - "Gori Tere Jaisan"
+  - "Pala Satake"
+  - "Bhatija Ke Mausi"
+  - "Saiyaan Ji Dagabaaz"
+  - "Choliya Ke Hook"
+  - "Lachke Kamariya"
+  - "Munni Badnaam Hui"

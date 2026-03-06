@@ -1,0 +1,33 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# 90s Hits Playlist
+
+name: "90s Hits"
+description: "Best songs from the 90s era"
+count: 20
+
+songs:
+  - "Pehla Nasha Pehla Khumar"
+  - "Tujhe Dekha To Yeh Jaana Sanam"
+  - "Kuch Kuch Hota Hai"
+  - "Ruk Ja O Dil Deewane"
+  - "Chaiyya Chaiyya"
+  - "Dil To Pagal Hai"
+  - "Koi Ladki Hai"
+  - "Mera Dil Bhi Kitna Pagal Hai"
+  - "Tum Hi Ho"
+  - "Aankhon Ki Gustakhiyan"
+  - "Dilwale Dulhania Le Jayenge"
+  - "Ho Gaya Hai Tujhko To Pyar Sajna"
+  - "Mehndi Laga Ke Rakhna"
+  - "Suraj Hua Maddham"
+  - "Bole Chudiyan"
+  - "Yeh Ladka Hai Allah"
+  - "Humko Humise Chura Lo"
+  - "Do Dil Mil Rahe Hain"
+  - "Dil Se Re"
+  - "Chand Chupa Badal Mein"

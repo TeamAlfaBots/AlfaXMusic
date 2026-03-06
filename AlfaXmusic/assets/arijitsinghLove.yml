@@ -1,0 +1,33 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# Arijit Singh Love Songs Playlist
+
+name: "Arijit Singh Love Songs"
+description: "Romantic love songs by Arijit Singh"
+count: 20
+
+songs:
+  - "Raabta"
+  - "Janam Janam"
+  - "Gerua"
+  - "Sooraj Dooba Hain"
+  - "Nashe Si Chadh Gayi"
+  - "Zaalima"
+  - "Hawayein"
+  - "Dekha Hazaro Dafaa"
+  - "Enna Sona"
+  - "Main Tera Boyfriend"
+  - "Galti Se Mistake"
+  - "Zinda Hoon Main"
+  - "Alizeh"
+  - "Bulleya"
+  - "Cutiepie"
+  - "The Breakup Song"
+  - "Ullu Ka Pattha"
+  - "Galti Se Mistake"
+  - "First Class"
+  - "Dilli Wali Girlfriend"

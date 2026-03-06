@@ -1,0 +1,33 @@
+# ===========================================
+#  AlfaXMusic - Telegram Music Bot
+#  Powered by Alfa Bots
+#  (c) 2024 Alfa Bots. All Rights Reserved.
+# ===========================================
+
+# Sad Songs Playlist
+
+name: "Sad Songs"
+description: "Heart touching sad songs"
+count: 20
+
+songs:
+  - "Channa Mereya"
+  - "Tum Hi Ho"
+  - "Agar Tum Saath Ho"
+  - "Kabira"
+  - "Samjhawan"
+  - "Sun Raha Hai Na Tu"
+  - "Bhula Dena"
+  - "Hamari Adhuri Kahani"
+  - "Khamoshiyan"
+  - "Milne Hai Mujhse Aayi"
+  - "Tadap Tadap Ke"
+  - "Tanhaiyan"
+  - "Bekhayali"
+  - "Phir Bhi Tumko Chaahunga"
+  - "Khairiyat"
+  - "Tujhe Kitna Chahne Lage"
+  - "Kalank Title Track"
+  - "Ghungroo"
+  - "Tera Ban Jaunga"
+  - "Mera Dil Bhi Kitna Pagal Hai"
